@@ -20,7 +20,7 @@ async function generateJoke() {
   jokeEl.innerHTML = data.joke;
 }
 
-// Using .then()
+// Using  .then()
 // function generateJoke() {
 //   const config = {
 //     headers: {
